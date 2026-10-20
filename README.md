@@ -15,3 +15,9 @@ Bu projeyi yazılıma giriş yapmak ve GitHub kullanımını öğrenmek amacıyl
 ## Nasıl açılır?
 
 Proje dosyalarını indirin ve index.html dosyasını tarayıcıda açın.
+
+## Öğrendiklerim
+
+- Anlamlı HTML etiketleriyle sayfayı bölümlere ayırmak
+- Sayfa içi bağlantılar oluşturmak
+- Git ile değişiklikleri kaydetmek ve GitHub’a göndermek
