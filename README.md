@@ -21,3 +21,11 @@ Proje dosyalarını indirin ve index.html dosyasını tarayıcıda açın.
 - Anlamlı HTML etiketleriyle sayfayı bölümlere ayırmak
 - Sayfa içi bağlantılar oluşturmak
 - Git ile değişiklikleri kaydetmek ve GitHub’a göndermek
+
+
+## İletişim formu
+
+- Formda 4 alan bulunur (ad,e-posta,konu,mesaj).
+- Dört alan da required ile zorunludur. E-posta alanında ayrıca type="email" ile biçim kontrolü yapılır.
+- Bu form öğrenme amaçlıdır; mesajı kaydeden veya e-posta gönderen bir backend bağlantısı yoktur.
+- GET yöntemiyle gönderilen bilgiler URL'nin sorgu bölümünde görünür.
