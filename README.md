@@ -36,3 +36,9 @@ Proje dosyalarını indirin ve index.html dosyasını tarayıcıda açın.
 `git add`, dosyanın o anki değişikliklerini bir sonraki commit için hazırlama alanına alır.
 
 `git push`, commitle hazırlanan değişikleri git hafızasından alıp githuba yollamayı sağlar.
+
+`id `, bir kimliktir. bir elemente verildiği zaman o id'li elemente sayfa içinden heryerden ulaşabiliriz.
+
+`name` gönderilen mesajın alan adı'dır. 
+
+`id ve name farkı` birisi elementi temsil eder, diğeri ise gönderilen verinin alan adını belirler . 
