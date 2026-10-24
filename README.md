@@ -34,3 +34,5 @@ Proje dosyalarını indirin ve index.html dosyasını tarayıcıda açın.
 `git commit -m "Açıklama"`, hazırlama alanındaki değişiklikleri yerel Git geçmişine kaydeder.
 
 `git add`, dosyanın o anki değişikliklerini bir sonraki commit için hazırlama alanına alır.
+
+`git push`, commitle hazırlanan değişikleri git hafızasından alıp githuba yollamayı sağlar.
