@@ -32,3 +32,5 @@ Proje dosyalarını indirin ve index.html dosyasını tarayıcıda açın.
 
 ## Tekrar notum
 `git commit -m "Açıklama"`, hazırlama alanındaki değişiklikleri yerel Git geçmişine kaydeder.
+
+`git add`, dosyanın o anki değişikliklerini bir sonraki commit için hazırlama alanına alır.
