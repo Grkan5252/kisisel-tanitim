@@ -2,9 +2,11 @@
 
 Bu projeyi yazılıma giriş yapmak ve GitHub kullanımını öğrenmek amacıyla hazırladım.
 
-## Kullandığım teknoloji
+## Kullandığım teknolojiler
 
 - HTML
+- CSS
+
 
 ## Neler içeriyor?
 
@@ -21,6 +23,7 @@ Proje dosyalarını indirin ve index.html dosyasını tarayıcıda açın.
 - Anlamlı HTML etiketleriyle sayfayı bölümlere ayırmak
 - Sayfa içi bağlantılar oluşturmak
 - Git ile değişiklikleri kaydetmek ve GitHub’a göndermek
+- CSS seçicileriyle yazı renklerini, boyutlarını, iç ve dış boşlukları ve çerçeveleri düzenledim.
 
 
 ## İletişim formu
