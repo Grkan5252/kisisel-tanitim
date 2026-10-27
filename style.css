@@ -46,6 +46,34 @@ footer {
 button {
     background-color: blue;
     color: white;
-    padding: 12px;
+    padding: 16px;
+    font-size: 18px;
     border: 1px solid black;
+}
+
+.iletisim-formu {
+    background-color: lightgray;
+    padding: 16px;
+    margin: 12px;
+    border: 1px solid black;
+}
+
+input,
+textarea {
+    padding: 8px;
+    border: 1px solid black;
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+
+label {
+    display: block;
+    margin: 0;
+    margin-bottom: 8px;
+}
+
+.form-notu {
+    color: black;
+    font-size: 16px;
+    padding: 8px;
 }
