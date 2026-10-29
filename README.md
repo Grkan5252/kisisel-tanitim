@@ -45,3 +45,8 @@ Proje dosyalarını indirin ve index.html dosyasını tarayıcıda açın.
 `name` gönderilen mesajın alan adı'dır. 
 
 `id ve name farkı` birisi elementi temsil eder, diğeri ise gönderilen verinin alan adını belirler . 
+
+## Kutuları ve görselleri dar ekrana uyarlama
+
+- Görsellerde `max-width: 100%`, görselin bulunduğu alandan geniş olmasını engeller; gerektiğinde küçülmesini sağlar. `height: auto`, en-boy oranını korur.
+- Kutuları `width: 100%` ile kullanılabilir alana uyarladım, `max-width` ile genişliklerine üst sınır koydum ve `box-sizing: border-box` ile iç boşlukları ve çerçeveyi bu genişliğe dahil ettim.
